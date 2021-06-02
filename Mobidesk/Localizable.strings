@@ -1,0 +1,11 @@
+"ListView.SearchField.Placeholder" = "Var vill du jobba?";
+
+"TodayBanner.TopTitle" = "Dagens arbetsplats";
+"TodayBanner.Greeting.pre" = "Ha en bra dag på {bookingName}";
+"TodayBanner.Greeting.current" = "Hoppaa du har en bra dag på {bookingName}";
+"TodayBanner.Greeting.post" = "Hoppas du haft en bra dag på {bookingName}";
+"TodayBanner.GreetingPhrase.morning" = "God morgon";
+"TodayBanner.GreetingPhrase.noon" = "God middag";
+"TodayBanner.GreetingPhrase.afternoon" = "God eftermiddag";
+"TodayBanner.GreetingPhrase.evning" = "God kväll";
+
