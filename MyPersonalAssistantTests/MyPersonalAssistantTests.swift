@@ -6,9 +6,9 @@
 //
 
 import XCTest
-@testable import Mobidesk
+@testable import MyPersonalAssistant
 
-class MobideskTests: XCTestCase {
+class MyPersonalAssistantTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

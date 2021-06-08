@@ -9,12 +9,12 @@
 /* Begin PBXBuildFile section */
 		E60FB70E2625039400979A72 /* TextFormat.swift in Sources */ = {isa = PBXBuildFile; fileRef = E60FB70D2625039400979A72 /* TextFormat.swift */; };
 		E60FB713262507FC00979A72 /* Text.swift in Sources */ = {isa = PBXBuildFile; fileRef = E60FB712262507FC00979A72 /* Text.swift */; };
-		E6182CAB261D971100DD39A7 /* MobideskApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6182CAA261D971100DD39A7 /* MobideskApp.swift */; };
+		E6182CAB261D971100DD39A7 /* MyPersonalAssistantApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6182CAA261D971100DD39A7 /* MyPersonalAssistantApp.swift */; };
 		E6182CAD261D971100DD39A7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6182CAC261D971100DD39A7 /* ContentView.swift */; };
 		E6182CAF261D971300DD39A7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E6182CAE261D971300DD39A7 /* Assets.xcassets */; };
 		E6182CB2261D971300DD39A7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E6182CB1261D971300DD39A7 /* Preview Assets.xcassets */; };
-		E6182CBD261D971400DD39A7 /* MobideskTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6182CBC261D971400DD39A7 /* MobideskTests.swift */; };
-		E6182CC8261D971400DD39A7 /* MobideskUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6182CC7261D971400DD39A7 /* MobideskUITests.swift */; };
+		E6182CBD261D971400DD39A7 /* MyPersonalAssistantTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6182CBC261D971400DD39A7 /* MyPersonalAssistantTests.swift */; };
+		E6182CC8261D971400DD39A7 /* MyPersonalAssistantUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6182CC7261D971400DD39A7 /* MyPersonalAssistantUITests.swift */; };
 		E6182CDA261D977A00DD39A7 /* ReSwift in Frameworks */ = {isa = PBXBuildFile; productRef = E6182CD9261D977A00DD39A7 /* ReSwift */; };
 		E6182CE0261D978B00DD39A7 /* Introspect in Frameworks */ = {isa = PBXBuildFile; productRef = E6182CDF261D978B00DD39A7 /* Introspect */; };
 		E6182CE6261D97DC00DD39A7 /* Store.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6182CE5261D97DC00DD39A7 /* Store.swift */; };
@@ -127,17 +127,17 @@
 /* Begin PBXFileReference section */
 		E60FB70D2625039400979A72 /* TextFormat.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFormat.swift; sourceTree = "<group>"; };
 		E60FB712262507FC00979A72 /* Text.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Text.swift; sourceTree = "<group>"; };
-		E6182CA7261D971100DD39A7 /* Mobidesk.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Mobidesk.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		E6182CAA261D971100DD39A7 /* MobideskApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MobideskApp.swift; sourceTree = "<group>"; };
+		E6182CA7261D971100DD39A7 /* MyPersonalAssistant.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyPersonalAssistant.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E6182CAA261D971100DD39A7 /* MyPersonalAssistantApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyPersonalAssistantApp.swift; sourceTree = "<group>"; };
 		E6182CAC261D971100DD39A7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		E6182CAE261D971300DD39A7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E6182CB1261D971300DD39A7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		E6182CB3261D971300DD39A7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		E6182CB8261D971400DD39A7 /* MobideskTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MobideskTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		E6182CBC261D971400DD39A7 /* MobideskTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MobideskTests.swift; sourceTree = "<group>"; };
+		E6182CB8261D971400DD39A7 /* MyPersonalAssistantTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyPersonalAssistantTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		E6182CBC261D971400DD39A7 /* MyPersonalAssistantTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyPersonalAssistantTests.swift; sourceTree = "<group>"; };
 		E6182CBE261D971400DD39A7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		E6182CC3261D971400DD39A7 /* MobideskUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MobideskUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		E6182CC7261D971400DD39A7 /* MobideskUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MobideskUITests.swift; sourceTree = "<group>"; };
+		E6182CC3261D971400DD39A7 /* MyPersonalAssistantUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyPersonalAssistantUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		E6182CC7261D971400DD39A7 /* MyPersonalAssistantUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyPersonalAssistantUITests.swift; sourceTree = "<group>"; };
 		E6182CC9261D971400DD39A7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E6182CE5261D97DC00DD39A7 /* Store.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Store.swift; sourceTree = "<group>"; };
 		E6182CEE261D97F200DD39A7 /* AppState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppState.swift; sourceTree = "<group>"; };
@@ -261,10 +261,10 @@
 		E6182C9E261D971100DD39A7 = {
 			isa = PBXGroup;
 			children = (
-				E6182CA9261D971100DD39A7 /* Mobidesk */,
+				E6182CA9261D971100DD39A7 /* MyPersonalAssistant */,
 				E6468DEB26208C4900C88A47 /* mocks */,
-				E6182CBB261D971400DD39A7 /* MobideskTests */,
-				E6182CC6261D971400DD39A7 /* MobideskUITests */,
+				E6182CBB261D971400DD39A7 /* MyPersonalAssistantTests */,
+				E6182CC6261D971400DD39A7 /* MyPersonalAssistantUITests */,
 				E6182CA8261D971100DD39A7 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -272,14 +272,14 @@
 		E6182CA8261D971100DD39A7 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				E6182CA7261D971100DD39A7 /* Mobidesk.app */,
-				E6182CB8261D971400DD39A7 /* MobideskTests.xctest */,
-				E6182CC3261D971400DD39A7 /* MobideskUITests.xctest */,
+				E6182CA7261D971100DD39A7 /* MyPersonalAssistant.app */,
+				E6182CB8261D971400DD39A7 /* MyPersonalAssistantTests.xctest */,
+				E6182CC3261D971400DD39A7 /* MyPersonalAssistantUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		E6182CA9261D971100DD39A7 /* Mobidesk */ = {
+		E6182CA9261D971100DD39A7 /* MyPersonalAssistant */ = {
 			isa = PBXGroup;
 			children = (
 				E6182CE4261D979500DD39A7 /* Redux */,
@@ -290,7 +290,7 @@
 				E6182CB0261D971300DD39A7 /* Preview Content */,
 				E6468E352623893500C88A47 /* Localizable.strings */,
 			);
-			path = Mobidesk;
+			path = MyPersonalAssistant;
 			sourceTree = "<group>";
 		};
 		E6182CB0261D971300DD39A7 /* Preview Content */ = {
@@ -301,22 +301,22 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		E6182CBB261D971400DD39A7 /* MobideskTests */ = {
+		E6182CBB261D971400DD39A7 /* MyPersonalAssistantTests */ = {
 			isa = PBXGroup;
 			children = (
-				E6182CBC261D971400DD39A7 /* MobideskTests.swift */,
+				E6182CBC261D971400DD39A7 /* MyPersonalAssistantTests.swift */,
 				E6182CBE261D971400DD39A7 /* Info.plist */,
 			);
-			path = MobideskTests;
+			path = MyPersonalAssistantTests;
 			sourceTree = "<group>";
 		};
-		E6182CC6261D971400DD39A7 /* MobideskUITests */ = {
+		E6182CC6261D971400DD39A7 /* MyPersonalAssistantUITests */ = {
 			isa = PBXGroup;
 			children = (
-				E6182CC7261D971400DD39A7 /* MobideskUITests.swift */,
+				E6182CC7261D971400DD39A7 /* MyPersonalAssistantUITests.swift */,
 				E6182CC9261D971400DD39A7 /* Info.plist */,
 			);
-			path = MobideskUITests;
+			path = MyPersonalAssistantUITests;
 			sourceTree = "<group>";
 		};
 		E6182CE4261D979500DD39A7 /* Redux */ = {
@@ -498,7 +498,7 @@
 				E6182DB2261DBD9400DD39A7 /* Connectors */,
 				E6182DED261DF8E200DD39A7 /* Utils */,
 				E6182CAC261D971100DD39A7 /* ContentView.swift */,
-				E6182CAA261D971100DD39A7 /* MobideskApp.swift */,
+				E6182CAA261D971100DD39A7 /* MyPersonalAssistantApp.swift */,
 				E6182DFC261E5CF300DD39A7 /* Routing.swift */,
 			);
 			path = UI;
@@ -641,9 +641,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		E6182CA6261D971100DD39A7 /* Mobidesk */ = {
+		E6182CA6261D971100DD39A7 /* MyPersonalAssistant */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E6182CCC261D971400DD39A7 /* Build configuration list for PBXNativeTarget "Mobidesk" */;
+			buildConfigurationList = E6182CCC261D971400DD39A7 /* Build configuration list for PBXNativeTarget "MyPersonalAssistant" */;
 			buildPhases = (
 				E6182CA3261D971100DD39A7 /* Sources */,
 				E6182CA4261D971100DD39A7 /* Frameworks */,
@@ -653,7 +653,7 @@
 			);
 			dependencies = (
 			);
-			name = Mobidesk;
+			name = MyPersonalAssistant;
 			packageProductDependencies = (
 				E6182CD9261D977A00DD39A7 /* ReSwift */,
 				E6182CDF261D978B00DD39A7 /* Introspect */,
@@ -661,12 +661,12 @@
 				E6182DF7261E57E900DD39A7 /* SwiftReduxRouter */,
 			);
 			productName = Mobidesk;
-			productReference = E6182CA7261D971100DD39A7 /* Mobidesk.app */;
+			productReference = E6182CA7261D971100DD39A7 /* MyPersonalAssistant.app */;
 			productType = "com.apple.product-type.application";
 		};
-		E6182CB7261D971400DD39A7 /* MobideskTests */ = {
+		E6182CB7261D971400DD39A7 /* MyPersonalAssistantTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E6182CCF261D971400DD39A7 /* Build configuration list for PBXNativeTarget "MobideskTests" */;
+			buildConfigurationList = E6182CCF261D971400DD39A7 /* Build configuration list for PBXNativeTarget "MyPersonalAssistantTests" */;
 			buildPhases = (
 				E6182CB4261D971400DD39A7 /* Sources */,
 				E6182CB5261D971400DD39A7 /* Frameworks */,
@@ -677,14 +677,14 @@
 			dependencies = (
 				E6182CBA261D971400DD39A7 /* PBXTargetDependency */,
 			);
-			name = MobideskTests;
+			name = MyPersonalAssistantTests;
 			productName = MobideskTests;
-			productReference = E6182CB8261D971400DD39A7 /* MobideskTests.xctest */;
+			productReference = E6182CB8261D971400DD39A7 /* MyPersonalAssistantTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		E6182CC2261D971400DD39A7 /* MobideskUITests */ = {
+		E6182CC2261D971400DD39A7 /* MyPersonalAssistantUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E6182CD2261D971400DD39A7 /* Build configuration list for PBXNativeTarget "MobideskUITests" */;
+			buildConfigurationList = E6182CD2261D971400DD39A7 /* Build configuration list for PBXNativeTarget "MyPersonalAssistantUITests" */;
 			buildPhases = (
 				E6182CBF261D971400DD39A7 /* Sources */,
 				E6182CC0261D971400DD39A7 /* Frameworks */,
@@ -695,9 +695,9 @@
 			dependencies = (
 				E6182CC5261D971400DD39A7 /* PBXTargetDependency */,
 			);
-			name = MobideskUITests;
+			name = MyPersonalAssistantUITests;
 			productName = MobideskUITests;
-			productReference = E6182CC3261D971400DD39A7 /* MobideskUITests.xctest */;
+			productReference = E6182CC3261D971400DD39A7 /* MyPersonalAssistantUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -722,7 +722,7 @@
 					};
 				};
 			};
-			buildConfigurationList = E6182CA2261D971100DD39A7 /* Build configuration list for PBXProject "Mobidesk" */;
+			buildConfigurationList = E6182CA2261D971100DD39A7 /* Build configuration list for PBXProject "MyPersonalAssistant" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -741,9 +741,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				E6182CA6261D971100DD39A7 /* Mobidesk */,
-				E6182CB7261D971400DD39A7 /* MobideskTests */,
-				E6182CC2261D971400DD39A7 /* MobideskUITests */,
+				E6182CA6261D971100DD39A7 /* MyPersonalAssistant */,
+				E6182CB7261D971400DD39A7 /* MyPersonalAssistantTests */,
+				E6182CC2261D971400DD39A7 /* MyPersonalAssistantUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -825,7 +825,7 @@
 				E6182D65261DA78300DD39A7 /* NSDecimalNumberTransform.swift in Sources */,
 				E6182DFD261E5CF300DD39A7 /* Routing.swift in Sources */,
 				E6182E1C261E69B800DD39A7 /* SearchModels.swift in Sources */,
-				E6182CAB261D971100DD39A7 /* MobideskApp.swift in Sources */,
+				E6182CAB261D971100DD39A7 /* MyPersonalAssistantApp.swift in Sources */,
 				E6182D73261DA78400DD39A7 /* DateTransform.swift in Sources */,
 				E6468E9C2624765400C88A47 /* TextWithFormat.swift in Sources */,
 				E6468DFA26219B5F00C88A47 /* FlipView.swift in Sources */,
@@ -876,7 +876,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E6182CBD261D971400DD39A7 /* MobideskTests.swift in Sources */,
+				E6182CBD261D971400DD39A7 /* MyPersonalAssistantTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -884,7 +884,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E6182CC8261D971400DD39A7 /* MobideskUITests.swift in Sources */,
+				E6182CC8261D971400DD39A7 /* MyPersonalAssistantUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -893,12 +893,12 @@
 /* Begin PBXTargetDependency section */
 		E6182CBA261D971400DD39A7 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = E6182CA6261D971100DD39A7 /* Mobidesk */;
+			target = E6182CA6261D971100DD39A7 /* MyPersonalAssistant */;
 			targetProxy = E6182CB9261D971400DD39A7 /* PBXContainerItemProxy */;
 		};
 		E6182CC5261D971400DD39A7 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = E6182CA6261D971100DD39A7 /* Mobidesk */;
+			target = E6182CA6261D971100DD39A7 /* MyPersonalAssistant */;
 			targetProxy = E6182CC4261D971400DD39A7 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -1026,10 +1026,10 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "\"Mobidesk/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"MyPersonalAssistant/Preview Content\"";
 				DEVELOPMENT_TEAM = YV2L853W5K;
 				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = Mobidesk/Info.plist;
+				INFOPLIST_FILE = MyPersonalAssistant/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -1048,10 +1048,10 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "\"Mobidesk/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"MyPersonalAssistant/Preview Content\"";
 				DEVELOPMENT_TEAM = YV2L853W5K;
 				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = Mobidesk/Info.plist;
+				INFOPLIST_FILE = MyPersonalAssistant/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -1082,7 +1082,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Mobidesk.app/Mobidesk";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MyPersonalAssistant.app/MyPersonalAssistant";
 			};
 			name = Debug;
 		};
@@ -1104,7 +1104,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Mobidesk.app/Mobidesk";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MyPersonalAssistant.app/MyPersonalAssistant";
 			};
 			name = Release;
 		};
@@ -1151,7 +1151,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		E6182CA2261D971100DD39A7 /* Build configuration list for PBXProject "Mobidesk" */ = {
+		E6182CA2261D971100DD39A7 /* Build configuration list for PBXProject "MyPersonalAssistant" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E6182CCA261D971400DD39A7 /* Debug */,
@@ -1160,7 +1160,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E6182CCC261D971400DD39A7 /* Build configuration list for PBXNativeTarget "Mobidesk" */ = {
+		E6182CCC261D971400DD39A7 /* Build configuration list for PBXNativeTarget "MyPersonalAssistant" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E6182CCD261D971400DD39A7 /* Debug */,
@@ -1169,7 +1169,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E6182CCF261D971400DD39A7 /* Build configuration list for PBXNativeTarget "MobideskTests" */ = {
+		E6182CCF261D971400DD39A7 /* Build configuration list for PBXNativeTarget "MyPersonalAssistantTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E6182CD0261D971400DD39A7 /* Debug */,
@@ -1178,7 +1178,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E6182CD2261D971400DD39A7 /* Build configuration list for PBXNativeTarget "MobideskUITests" */ = {
+		E6182CD2261D971400DD39A7 /* Build configuration list for PBXNativeTarget "MyPersonalAssistantUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E6182CD3261D971400DD39A7 /* Debug */,

@@ -3,7 +3,7 @@ import SwiftReduxRouter
 import SwiftUI
 
 @main
-struct MobideskApp: App {
+struct MyPersonalAssistantApp: App {
     let store: Store<MainState>
     init() {
         store = MainState.createStore(initState: MainState.initState)

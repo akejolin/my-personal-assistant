@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E6182CA6261D971100DD39A7"
-               BuildableName = "Mobidesk.app"
-               BlueprintName = "Mobidesk"
-               ReferencedContainer = "container:Mobidesk.xcodeproj">
+               BuildableName = "MyPersonalAssistant.app"
+               BlueprintName = "MyPersonalAssistant"
+               ReferencedContainer = "container:MyPersonalAssistant.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E6182CB7261D971400DD39A7"
-               BuildableName = "MobideskTests.xctest"
-               BlueprintName = "MobideskTests"
-               ReferencedContainer = "container:Mobidesk.xcodeproj">
+               BuildableName = "MyPersonalAssistantTests.xctest"
+               BlueprintName = "MyPersonalAssistantTests"
+               ReferencedContainer = "container:MyPersonalAssistant.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E6182CC2261D971400DD39A7"
-               BuildableName = "MobideskUITests.xctest"
-               BlueprintName = "MobideskUITests"
-               ReferencedContainer = "container:Mobidesk.xcodeproj">
+               BuildableName = "MyPersonalAssistantUITests.xctest"
+               BlueprintName = "MyPersonalAssistantUITests"
+               ReferencedContainer = "container:MyPersonalAssistant.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -65,9 +65,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E6182CA6261D971100DD39A7"
-            BuildableName = "Mobidesk.app"
-            BlueprintName = "Mobidesk"
-            ReferencedContainer = "container:Mobidesk.xcodeproj">
+            BuildableName = "MyPersonalAssistant.app"
+            BlueprintName = "MyPersonalAssistant"
+            ReferencedContainer = "container:MyPersonalAssistant.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -82,9 +82,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E6182CA6261D971100DD39A7"
-            BuildableName = "Mobidesk.app"
-            BlueprintName = "Mobidesk"
-            ReferencedContainer = "container:Mobidesk.xcodeproj">
+            BuildableName = "MyPersonalAssistant.app"
+            BlueprintName = "MyPersonalAssistant"
+            ReferencedContainer = "container:MyPersonalAssistant.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
